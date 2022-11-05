@@ -1,0 +1,20 @@
+{
+    "name": "docker-nodejs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build" : "npm run index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/gogineniprathyusha/Docker-nodejs.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/gogineniprathyusha/Docker-nodejs/issues"
+    },
+    "homepage": "https://github.com/gogineniprathyusha/Docker-nodejs#readme"
+  }
