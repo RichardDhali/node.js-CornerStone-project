@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Git Checkout') {
             steps {
-                git branch: 'main', credentialsId: 'Github', url: 'https://github.com/ShubbamShrmali/ELK-Stack.git'
+                git branch: 'main', credentialsId: 'Github', url: 'https://github.com/ShubbamShrmali/node.js-CornerStone.git'
             }
         }
         stage('Terraform init') {
