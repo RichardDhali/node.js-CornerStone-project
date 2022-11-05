@@ -10,6 +10,6 @@ curl -L https://github.com/docker/compose/releases/latest/download/docker-compos
 chmod +x /usr/local/bin/docker-compose
 git clone https://github.com/ShubbamShrmali/node.js-CornerStone.git
 cd /node.js-CornerStone/
-docker build -t noode
+docker build -t noode .
 docker run -t -d -p 8080:3030 noode
 
