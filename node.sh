@@ -11,5 +11,4 @@ chmod +x /usr/local/bin/docker-compose
 git clone https://github.com/ShubbamShrmali/node.js-CornerStone.git
 cd /node.js-CornerStone/
 docker build -t noode .
-docker run -t -d -p 8080:3030 noode
-
+docker run -d -t -p 3030:3030 noode
