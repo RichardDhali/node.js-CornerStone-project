@@ -9,12 +9,12 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/gogineniprathyusha/Docker-nodejs.git"
+      "url": "git+https://github.com/ShubbamShrmali/node.js-CornerStone.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/gogineniprathyusha/Docker-nodejs/issues"
+      "url": "https://github.com/ShubbamShrmali/node.js-CornerStone.git/issues"
     },
-    "homepage": "https://github.com/gogineniprathyusha/Docker-nodejs#readme"
+    "homepage": "https://github.com/ShubbamShrmali/node.js-CornerStone.git#readme"
   }
