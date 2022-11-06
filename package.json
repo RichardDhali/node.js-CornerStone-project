@@ -9,12 +9,12 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/ShubbamShrmali/node.js-CornerStone.git"
+      "url": "git+https://github.com/RichardDhali/node.js-CornerStone-project.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/ShubbamShrmali/node.js-CornerStone.git/issues"
+      "url": "https://github.com/RichardDhali/node.js-CornerStone-project.git/issues"
     },
-    "homepage": "https://github.com/ShubbamShrmali/node.js-CornerStone.git#readme"
+    "homepage": "https://github.com/RichardDhali/node.js-CornerStone-project.git#readme"
   }
