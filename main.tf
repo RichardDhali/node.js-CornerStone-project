@@ -17,7 +17,7 @@
 
 
 resource "aws_instance" "nodeDeploy" {
-    ami = "ami-026b57f3c383c2eec"
+    ami = "ami-09d3b3274b6c5d4aa"
     count = "1"
     key_name   = "Jenkins"
     instance_type = "t2.micro"
