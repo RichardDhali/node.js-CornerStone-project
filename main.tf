@@ -16,14 +16,14 @@
 
 
 
-resource "aws_instance" "nodeDeploy" {
+resource "aws_instance" "deploy" {
     ami = "ami-09d3b3274b6c5d4aa"
     count = "1"
-    key_name   = "Jenkins"
+    key_name   = "abelkp"
     instance_type = "t2.micro"
     security_groups = ["launch-wizard-1"]
     tags = {
-        Name = "nodedeploy"
+        Name = "deploy"
     } 
     user_data = file("node.sh")
    
